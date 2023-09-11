@@ -77,7 +77,7 @@ def getMerge(list1,list2):
         else:
             list1.append(list2[i])
 
-
+    print(list1)
     return list1
 
 
